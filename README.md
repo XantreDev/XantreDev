@@ -1,6 +1,6 @@
 # [Valerii Smirnov](https://linktr.ee/xantre_)
 
-I am passioned about:
+I am passionate about:
 - reactivity systems for UI applications
 - open source
 - Rust as system level programming language
